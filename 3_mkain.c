@@ -2,8 +2,8 @@
 //ljr2007102@qq.com
 //李佳蓉
 #include <stdio.h>
-
-int main() {
+int main()
+{
     int a, b, result;
     char op;  // 存储运算符（+、-、*、/）
 
